@@ -1,5 +1,5 @@
 {
-  "name": "gamegoldtoolkit",
+  "name": "gamerpc",
   "version": "1.5.7",
   "description": "Gamegold Toolkit",
   "main": "index.js",
@@ -12,6 +12,7 @@
     "url": "git+https://github.com/bookmansoft/gamegoldtoolkit.git"
   },
   "keywords": [
+    "rpc",
     "bitcoin",
     "blockchain",
     "toolkit",
